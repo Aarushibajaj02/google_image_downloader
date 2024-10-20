@@ -1,0 +1,7 @@
+streamlit
+google_images_search
+os
+zipfile
+smtplib
+email.mime.text
+email.mime.multipart
