@@ -37,3 +37,7 @@ Email: The user can have the ZIP file directly emailed to them.
 **Output Screen**
 ![image](https://github.com/user-attachments/assets/ad10dcb5-50fd-4f9e-942d-051e9ad08e07)
 
+To Run:
+
+   $ streamlit run streamlit_app.py
+
